@@ -85,7 +85,7 @@
     "Image": "Изображение",
     "Code": "Код",
     "Externals": "Внешнее",
-    "This is a alert area.": "Это уведомление.",
+    "This is an alert area.": "Это уведомление.",
     "Revert": "Отменить",
     "Import from clipboard": "Импорт из буфера обмена",
     "Paste your markdown or webpage here...": "Вставьте ваш markdown код или веб-страницу здесь...",

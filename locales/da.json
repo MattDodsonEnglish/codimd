@@ -82,7 +82,7 @@
 	"Image": "Billede",
 	"Code": "Kode",
 	"Externals": "Eksterne",
-	"This is a alert area.": "Dette er et alarmområde.",
+	"This is an alert area.": "Dette er et alarmområde.",
 	"Revert": "Fortryd ændringer",
 	"Import from clipboard": "Importér fra udklipsholder",
 	"Paste your markdown or webpage here...": "Indsæt din markdown eller hjemmeside her...",
